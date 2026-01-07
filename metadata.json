@@ -1,0 +1,7 @@
+{
+  "name": "IMAT Buddy Consultant Portal",
+  "description": "A comprehensive management system for IMAT Buddy to handle international medical student intake, requirement tracking, and university application deadlines for EU and Non-EU candidates.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
